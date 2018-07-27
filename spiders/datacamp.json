@@ -1,32 +1,1672 @@
 [
-{"topic": "The Pip Python Package Manager", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/pip-python-package-manager\">The Pip Python Package Manager</a>", "author_profile": "<a href=\"/profile/cjsejal\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/000/259/429/square/AAEAAQAAAAAAAAbiAAAAJDcxMjBiNjIwLTZhODMtNGMzMS04NTE4LTZlMDkzMGVlNGIwNg.jpg?1512740950);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Sejal Jaiswal</div><div class=\"jsx-566588255 date\"><span>June 13th, 2018</span></div></div></a>", "author_name": "Sejal Jaiswal", "description": "Learn about Pip, a powerful tool that helps you properly manage distribution packages in Python."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Sejal Jaiswal", "description": null},
-{"topic": "Using Python to Power Spreadsheets in Data Science", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/power-spreadsheets-python\">Using Python to Power Spreadsheets in Data Science</a>", "author_profile": "<a href=\"/profile/jasongraham\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/001/335/612/square/profile.png?1518708631);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Jason Graham</div><div class=\"jsx-566588255 date\"><span>June 12th, 2018</span></div></div></a>", "author_name": "Jason Graham", "description": "Learn how Python can be used more effectively than Excel, with the Pandas package."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Jason Graham", "description": null},
-{"topic": "Converting Strings to Dates as datetime Objects", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/converting-strings-datetime-objects\">Converting Strings to Dates as datetime Objects</a>", "author_profile": "<a href=\"/profile/tommyjee\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/000/329/323/square/tom.jpg?1465645479);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Tom Jeon</div><div class=\"jsx-566588255 date\"><span>June 8th, 2018</span></div></div></a>", "author_name": "Tom Jeon", "description": "Learn how to convert strings to datetime objects in Python and why doing so has become standard practice for working data scientists today."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Tom Jeon", "description": null},
-{"topic": "TensorBoard Tutorial", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/tensorboard-tutorial\">TensorBoard Tutorial</a>", "author_profile": "<a href=\"/profile/thushv\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/002/125/563/square/profile.jpeg?1518563443);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Thushan Ganegedara</div><div class=\"jsx-566588255 date\"><span>June 6th, 2018</span></div></div></a>", "author_name": "Thushan Ganegedara", "description": "Visualize the training parameters, metrics, hyperparameters or any statistics of your neural network with TensorBoard!"},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Thushan Ganegedara", "description": null},
-{"topic": "Installing Anaconda on Mac OS X", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/installing-anaconda-mac-os-x\">Installing Anaconda on Mac OS X</a>", "author_profile": "<a href=\"/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/001/782/418/square/0_PGUE8F8TgCL-M4md.jpg?1512569472);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Michael Galarnyk</div><div class=\"jsx-566588255 date\"><span>June 5th, 2018</span></div></div></a>", "author_name": "Michael Galarnyk", "description": "This tutorial will demonstrate how you can install Anaconda, a powerful package manager, on your Mac."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Michael Galarnyk", "description": null},
-{"topic": "Custom Templates for Jupyter Notebooks with Jinja2", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/jinja2-custom-export-templates-jupyter\">Custom Templates for Jupyter Notebooks with Jinja2</a>", "author_profile": "<a href=\"/profile/stephaniehowson\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/001/764/233/square/AAEAAQAAAAAAAAemAAAAJDI5ZWNlYmVhLWMxYmUtNDExMy1hNTNlLWZkZTU5NTI2YTY5ZA.jpg?1519759627);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Steph Howson</div><div class=\"jsx-566588255 date\"><span>May 30th, 2018</span></div></div></a>", "author_name": "Steph Howson", "description": "Learn how to create custom export templates for your Jupyter Notebooks using Jinja2."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Steph Howson", "description": null},
-{"topic": "Python Sets and Set Theory", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/sets-in-python\">Python Sets and Set Theory</a>", "author_profile": "<a href=\"/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/001/782/418/square/0_PGUE8F8TgCL-M4md.jpg?1512569472);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Michael Galarnyk</div><div class=\"jsx-566588255 date\"><span>May 29th, 2018</span></div></div></a>", "author_name": "Michael Galarnyk", "description": "Learn about Python sets: what they are, how to create them, when to use them, built-in functions, and their relationship to set theory operations."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Michael Galarnyk", "description": null},
-{"topic": "How to Install and Use Homebrew", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/homebrew-install-use\">How to Install and Use Homebrew</a>", "author_profile": "<a href=\"/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/001/782/418/square/0_PGUE8F8TgCL-M4md.jpg?1512569472);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Michael Galarnyk</div><div class=\"jsx-566588255 date\"><span>May 23rd, 2018</span></div></div></a>", "author_name": "Michael Galarnyk", "description": "Discover Homebrew for data science: learn how you can use this package manager to install, update, and remove technologies such as Apache Spark and Graphviz."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Michael Galarnyk", "description": null},
-{"topic": "Handling Categorical Data in Python", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/categorical-data\">Handling Categorical Data in Python</a>", "author_profile": "<a href=\"/profile/pathakmanish2605\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/000/412/222/square/index.jpg?1516993022);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Manish Pathak</div><div class=\"jsx-566588255 date\"><span>May 22nd, 2018</span></div></div></a>", "author_name": "Manish Pathak", "description": "Learn the common tricks to handle categorical data and preprocess it to build machine learning models!"},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Manish Pathak", "description": null},
-{"topic": "How to install R on Windows, Mac OS X and Ubuntu", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/installing-R-windows-mac-ubuntu\">How to install R on Windows, Mac OS X and Ubuntu</a>", "author_profile": "<a href=\"/profile/mauriciovargas\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://graph.facebook.com/2006376832956301/picture?width=150&amp;height=150);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Mauricio Vargas</div><div class=\"jsx-566588255 date\"><span>May 17th, 2018</span></div></div></a>", "author_name": "Mauricio Vargas", "description": "This is a beginner guide that is designed to save yourself a headache and valuable time if you decide to install R yourself."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Mauricio Vargas", "description": null},
-{"topic": "Understanding Random Forests Classifiers in Python", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/random-forests-classifier-python\">Understanding Random Forests Classifiers in Python</a>", "author_profile": "<a href=\"/profile/avinashnvln8\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/000/520/621/square/10.jpg?1475318624);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Avinash Navlani</div><div class=\"jsx-566588255 date\"><span>May 16th, 2018</span></div></div></a>", "author_name": "Avinash Navlani", "description": "Learn about Random Forests and build your own model in Python, for both classification and regression."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Avinash Navlani", "description": null},
-{"topic": "Pandas Tutorial: Importing Data with read_csv()", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/pandas-read-csv\">Pandas Tutorial: Importing Data with read_csv()</a>", "author_profile": "<a href=\"/profile/tommyjee\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/000/329/323/square/tom.jpg?1465645479);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Tom Jeon</div><div class=\"jsx-566588255 date\"><span>May 9th, 2018</span></div></div></a>", "author_name": "Tom Jeon", "description": "Importing data is the first step in any data science project. Learn why today's data scientists prefer pandas' read_csv() function to do this."},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Tom Jeon", "description": null},
-{"topic": "Demystifying Generative Adversarial Nets (GANs)", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/generative-adversarial-networks\">Demystifying Generative Adversarial Nets (GANs)</a>", "author_profile": "<a href=\"/profile/stefanmhosein\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/002/106/167/square/IMG_1482.jpg?1525795589);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Stefan Hosein</div><div class=\"jsx-566588255 date\"><span>May 9th, 2018</span></div></div></a>", "author_name": "Stefan Hosein", "description": "Learn what Generative Adversarial Networks are without going into the details of the math and  code a simple GAN that can create digits!"},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Stefan Hosein", "description": null},
-{"topic": "Long to Wide Data in R", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/long-wide-data-R\">Long to Wide Data in R</a>", "author_profile": "<a href=\"/profile/kwonhyunkim\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://cdn.datacamp.com/community/assets/placeholder_avatar-7f673b5d40e159404a56b5931250cc73.png);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Kim Kwonhyun</div><div class=\"jsx-566588255 date\"><span>May 8th, 2018</span></div></div></a>", "author_name": "Kim Kwonhyun", "description": "Learn why you would transform your data from a long to a wide format and vice versa and explore how to do this in R with melt() and dcast()!"},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Kim Kwonhyun", "description": null},
-{"topic": "Stock Market Predictions with LSTM in Python", "topic_url": "<a class=\"jsx-379356511\" href=\"/community/tutorials/lstm-python-stock-market\">Stock Market Predictions with LSTM in Python</a>", "author_profile": "<a href=\"/profile/thushv\" target=\"_blank\" class=\"jsx-566588255\"><div style=\"background-image:url(https://res.cloudinary.com/dyd911kmh/image/fetch/t_avatar_thumbnail/https://assets.datacamp.com/users/avatars/002/125/563/square/profile.jpeg?1518563443);border-radius:20px;min-width:40px;min-height:40px\" class=\"jsx-3208234818 Avatar\"></div><div class=\"jsx-566588255 info\"><div class=\"jsx-566588255 name\">Thushan Ganegedara</div><div class=\"jsx-566588255 date\"><span>May 3rd, 2018</span></div></div></a>", "author_name": "Thushan Ganegedara", "description": "Discover Long Short-Term Memory (LSTM) networks in Python and how you can use them to make stock market predictions!"},
-{"topic": null, "topic_url": null, "author_profile": null, "author_name": "Thushan Ganegedara", "description": null}
+  {
+    "topic_url": "/community/tutorials/modules-in-python",
+    "description": "Modules enable you to split parts of your program in different files for easier maintenance and better performance.",
+    "title": [
+      "python"
+    ],
+    "author_name": "kumarnishant",
+    "topic": "Working with Modules in Python",
+    "author_profile": "/profile/kumarnishant"
+  },
+  {
+    "topic_url": "/community/tutorials/python-list-index",
+    "description": "In this tutorial, you will learn exclusively about the index() function.",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python List Index()",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/hierarchical-clustering-R",
+    "description": "Clustering is the most common form of unsupervised learning, a type of machine learning algorithm used to draw inferences from unlabeled data.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Manish Pathak",
+    "topic": "Hierarchical Clustering in R",
+    "author_profile": "/profile/pathakmanish2605"
+  },
+  {
+    "topic_url": "/community/tutorials/autoencoder-classifier-python",
+    "description": "In this tutorial, you will learn & understand how to use autoencoder as a classifier in Python with Keras. You'll be using Fashion-MNIST dataset as an example.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Autoencoder as a Classifier using Fashion-MNIST Dataset",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/machine-learning-hotel-reviews",
+    "description": "In this tutorial, you\u2019ll use a machine learning algorithm to implement a real-life problem in Python. You will learn how to read multiple text files in python, extract labels, use dataframes and a lot more!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Detecting True and Deceptive Hotel Reviews using Machine Learning",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/linear-regression-R",
+    "description": "In this tutorial, you will learn the basics behind a very popular statistical model; the linear regression.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Eladio Montero Porras",
+    "topic": "Linear Regression in R",
+    "author_profile": "/profile/eladiomontero"
+  },
+  {
+    "topic_url": "/community/tutorials/data-science-pitfalls",
+    "description": "In this tutorial, you'll learn about some pitfalls you might experience when working on data science projects \"in the wild\".",
+    "title": [
+      "must read",
+      "learning data science"
+    ],
+    "author_name": "Lars Hulstaert",
+    "topic": "Common data science pitfalls & how to avoid them!",
+    "author_profile": "/profile/larshulstaert-134c68b7-24fb-49df-ad92-ae71d183fa50"
+  },
+  {
+    "topic_url": "/community/tutorials/svm-classification-scikit-learn-python",
+    "description": "In this tutorial, you'll learn about Support Vector Machines, one of the most popular and widely used supervised machine learning algorithms.",
+    "title": [
+      "scikit-learn"
+    ],
+    "author_name": "Avinash Navlani",
+    "topic": "Support Vector Machines with Scikit-learn",
+    "author_profile": "/profile/avinashnvln8"
+  },
+  {
+    "topic_url": "/community/tutorials/understanding-model-predictions-lime",
+    "description": "Learn about Lime and how it works along with the potential pitfalls that come with using it.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Lars Hulstaert",
+    "topic": "Understanding Model Predictions with LIME",
+    "author_profile": "/profile/larshulstaert-134c68b7-24fb-49df-ad92-ae71d183fa50"
+  },
+  {
+    "topic_url": "/community/tutorials/xgboost-in-python",
+    "description": "XGBoost is one of the most popular machine learning algorithm these days. Regardless of the type of prediction task at hand; regression or classification.",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Manish Pathak",
+    "topic": "Using XGBoost in Python",
+    "author_profile": "/profile/pathakmanish2605"
+  },
+  {
+    "topic_url": "/community/tutorials/cd-package-docs-pkgdown-travis",
+    "description": "Follow these simple steps to enable continuous deployment of your package documentation.",
+    "title": [
+      "r documentation"
+    ],
+    "author_name": "Filip Schouwenaars",
+    "topic": "Continuous deployment of package documentation with pkgdown and Travis CI",
+    "author_profile": "/profile/filipsch"
+  },
+  {
+    "topic_url": "/community/tutorials/k-means-clustering-python",
+    "description": "Learn about the inner workings of the K-Means clustering algorithm with an interesting case study.",
+    "title": [
+      "must read",
+      "scikit-learn"
+    ],
+    "author_name": "Sayak  Paul",
+    "topic": "K-Means Clustering in Python with scikit-learn",
+    "author_profile": "/profile/spsayakpaul"
+  },
+  {
+    "topic_url": "/community/tutorials/exception-handling-python",
+    "description": "Error handling increases the robustness of your code, which guards against potential failures that would cause your program to exit in an uncontrolled fashion.",
+    "title": [
+      "python"
+    ],
+    "author_name": "kumarnishant",
+    "topic": "Exception and Error Handling in Python",
+    "author_profile": "/profile/kumarnishant"
+  },
+  {
+    "topic_url": "/community/tutorials/scope-of-variables-python",
+    "description": "In this tutorial, you will learn about Python's scope of variables, the global and nonlocal keywords, closures and the LEGB rule.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Th\u00e9o Vanderheyden",
+    "topic": "Scope of Variables in Python Tutorial",
+    "author_profile": "/profile/theov"
+  },
+  {
+    "topic_url": "/community/tutorials/reconstructing-brain-images-deep-learning",
+    "description": "In this tutorial, you'll learn & understand how to read nifti format brain magnetic resonance imaging (MRI) images, reconstructing them using convolutional autoencoder.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Reconstructing Brain MRI Images Using Deep Learning (Convolutional Autoencoder)",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/setup-data-science-environment",
+    "description": "Learn about the various options you have to setup a data science environment with Python, R, Git, and Unix Shell on your local computer.",
+    "title": [
+      "must read",
+      "git"
+    ],
+    "author_name": "Michael Galarnyk",
+    "topic": "Setup a Data Science Environment on your Computer",
+    "author_profile": "/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a"
+  },
+  {
+    "topic_url": "/community/tutorials/fingerprint-deep-learning",
+    "description": "In this tutorial, you will learn and understand how to read jpeg format fingerprint images, reconstructing them using convolutional autoencoder.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Reconstructing Fingerprint Images Using Deep Learning (Convolutional Autoencoder)",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/ML-NLP-lyric-analysis",
+    "description": "In this tutorial, you will build four models using Latent Dirichlet Allocation (LDA) and K-Means clustering machine learning algorithms.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Debbie Liske",
+    "topic": "Machine Learning and NLP using R: Topic Modeling and Music Classification",
+    "author_profile": "/profile/debbieliskefa5156febfc047aeb79dee6c802d3d04"
+  },
+  {
+    "topic_url": "/community/tutorials/predicting-H-1B-visa-status-python",
+    "description": "Learn how you can predict the status of a H-1B visa application with Machine Learning in Python.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Deepak Jhanji",
+    "topic": "Predicting the Status of H-1B Visa Applications",
+    "author_profile": "/profile/jhanjideepak"
+  },
+  {
+    "topic_url": "/community/tutorials/decision-trees-R",
+    "description": "Learn all about decision trees, a form of supervised learning used in a variety of ways to solve regression and classification problems.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "James Le",
+    "topic": "Decision Trees in R",
+    "author_profile": "/profile/khanhle1013"
+  },
+  {
+    "topic_url": "/community/tutorials/pip-python-package-manager",
+    "description": "Learn about Pip, a powerful tool that helps you properly manage distribution packages in Python.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "The Pip Python Package Manager",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/power-spreadsheets-python",
+    "description": "Learn how Python can be used more effectively than Excel, with the Pandas package.",
+    "title": [
+      "must read",
+      "pandas"
+    ],
+    "author_name": "Jason Graham",
+    "topic": "Using Python to Power Spreadsheets in Data Science",
+    "author_profile": "/profile/jasongraham"
+  },
+  {
+    "topic_url": "/community/tutorials/converting-strings-datetime-objects",
+    "description": "Learn how to convert strings to datetime objects in Python and why doing so has become standard practice for working data scientists today.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Tom Jeon",
+    "topic": "Converting Strings to Dates as datetime Objects",
+    "author_profile": "/profile/tommyjee"
+  },
+  {
+    "topic_url": "/community/tutorials/tensorboard-tutorial",
+    "description": "Visualize the training parameters, metrics, hyperparameters or any statistics of your neural network with TensorBoard!",
+    "title": [
+      "must read",
+      "neural networks"
+    ],
+    "author_name": "Thushan Ganegedara",
+    "topic": "TensorBoard Tutorial",
+    "author_profile": "/profile/thushv"
+  },
+  {
+    "topic_url": "/community/tutorials/installing-anaconda-mac-os-x",
+    "description": "This tutorial will demonstrate how you can install Anaconda, a powerful package manager, on your Mac.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Michael Galarnyk",
+    "topic": "Installing Anaconda on Mac OS X",
+    "author_profile": "/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a"
+  },
+  {
+    "topic_url": "/community/tutorials/jinja2-custom-export-templates-jupyter",
+    "description": "Learn how to create custom export templates for your Jupyter Notebooks using Jinja2.",
+    "title": [
+      "jupyter"
+    ],
+    "author_name": "Steph Howson",
+    "topic": "Custom Templates for Jupyter Notebooks with Jinja2",
+    "author_profile": "/profile/stephaniehowson"
+  },
+  {
+    "topic_url": "/community/tutorials/sets-in-python",
+    "description": "Learn about Python sets: what they are, how to create them, when to use them, built-in functions, and their relationship to set theory operations.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Michael Galarnyk",
+    "topic": "Python Sets and Set Theory",
+    "author_profile": "/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a"
+  },
+  {
+    "topic_url": "/community/tutorials/homebrew-install-use",
+    "description": "Discover Homebrew for data science: learn how you can use this package manager to install, update, and remove technologies such as Apache Spark and Graphviz.",
+    "title": [
+      "must read",
+      "spark"
+    ],
+    "author_name": "Michael Galarnyk",
+    "topic": "How to Install and Use Homebrew",
+    "author_profile": "/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a"
+  },
+  {
+    "topic_url": "/community/tutorials/categorical-data",
+    "description": "Learn the common tricks to handle categorical data and preprocess it to build machine learning models!",
+    "title": [
+      "data manipulation"
+    ],
+    "author_name": "Manish Pathak",
+    "topic": "Handling Categorical Data in Python",
+    "author_profile": "/profile/pathakmanish2605"
+  },
+  {
+    "topic_url": "/community/tutorials/installing-R-windows-mac-ubuntu",
+    "description": "This is a beginner guide that is designed to save yourself a headache and valuable time if you decide to install R yourself.",
+    "title": [
+      "must read",
+      "tidyverse"
+    ],
+    "author_name": "Mauricio Vargas",
+    "topic": "How to install R on Windows, Mac OS X and Ubuntu",
+    "author_profile": "/profile/mauriciovargas"
+  },
+  {
+    "topic_url": "/community/tutorials/random-forests-classifier-python",
+    "description": "Learn about Random Forests and build your own model in Python, for both classification and regression.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Avinash Navlani",
+    "topic": "Understanding Random Forests Classifiers in Python",
+    "author_profile": "/profile/avinashnvln8"
+  },
+  {
+    "topic_url": "/community/tutorials/pandas-read-csv",
+    "description": "Importing data is the first step in any data science project. Learn why today's data scientists prefer pandas' read_csv() function to do this.",
+    "title": [
+      "must read",
+      "pandas"
+    ],
+    "author_name": "Tom Jeon",
+    "topic": "Pandas Tutorial: Importing Data with read_csv()",
+    "author_profile": "/profile/tommyjee"
+  },
+  {
+    "topic_url": "/community/tutorials/generative-adversarial-networks",
+    "description": "Learn what Generative Adversarial Networks are without going into the details of the math and  code a simple GAN that can create digits!",
+    "title": [
+      "deep learning"
+    ],
+    "author_name": "Stefan Hosein",
+    "topic": "Demystifying Generative Adversarial Nets (GANs)",
+    "author_profile": "/profile/stefanmhosein"
+  },
+  {
+    "topic_url": "/community/tutorials/long-wide-data-R",
+    "description": "Learn why you would transform your data from a long to a wide format and vice versa and explore how to do this in R with melt() and dcast()!",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Kim Kwonhyun",
+    "topic": "Long to Wide Data in R",
+    "author_profile": "/profile/kwonhyunkim"
+  },
+  {
+    "topic_url": "/community/tutorials/lstm-python-stock-market",
+    "description": "Discover Long Short-Term Memory (LSTM) networks in Python and how you can use them to make stock market predictions!",
+    "title": [
+      "deep learning"
+    ],
+    "author_name": "Thushan Ganegedara",
+    "topic": "Stock Market Predictions with LSTM in Python",
+    "author_profile": "/profile/thushv"
+  },
+  {
+    "topic_url": "/community/tutorials/markov-chains-python-tutorial",
+    "description": "Learn about Markov Chains, their properties, transition matrices, and implement one yourself in Python!",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Markov Chains in Python: Beginner Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/gflasso-R",
+    "description": "Explore graph-structured multi-task regression with the GFLASSO  R package with this tutorial!",
+    "title": [
+      "statistical modeling"
+    ],
+    "author_name": "Francisco Lima",
+    "topic": "GFLASSO: Graph-Guided Fused LASSO in R",
+    "author_profile": "/profile/francisco-lima278"
+  },
+  {
+    "topic_url": "/community/tutorials/survival-analysis-R",
+    "description": "In this tutorial, you'll learn about the statistical concepts behind survival analysis and you'll implement a real-world application of these methods in R.",
+    "title": [
+      "must read",
+      "statistical modeling"
+    ],
+    "author_name": "Daniel Schuette",
+    "topic": "Survival Analysis in R For Beginners",
+    "author_profile": "/profile/DanielSchuette"
+  },
+  {
+    "topic_url": "/community/tutorials/absolute-weighted-word-frequency",
+    "description": "In this tutorial, you'll learn about absolute and weighted word frequency in text mining and how to calculate it with defaultdict and pandas DataFrames.",
+    "title": [
+      "webscraping"
+    ],
+    "author_name": "Elias Dabbas",
+    "topic": "Absolute and Weighted Frequency of Words in Text",
+    "author_profile": "/profile/elias-1bcfbc85-6b61-466c-a28f-3084efe432d1"
+  },
+  {
+    "topic_url": "/community/tutorials/object-detection-guide",
+    "description": "Explore the key concepts in object detection and learn how they are implemented in SSD and Faster RCNN, which are available in the Tensorflow Detection API.",
+    "title": [
+      "must read",
+      "machine learning"
+    ],
+    "author_name": "Lars Hulstaert",
+    "topic": "A Beginner's Guide to Object Detection",
+    "author_profile": "/profile/larshulstaert"
+  },
+  {
+    "topic_url": "/community/tutorials/centrality-network-analysis-R",
+    "description": "Explore the definition of centrality, learn what different types of centrality measures exist in network analysis and pick the best one for a given network!",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Minoo Ashtiani",
+    "topic": "Network Analysis in R: Centrality Measures",
+    "author_profile": "/profile/MinooAshtiani"
+  },
+  {
+    "topic_url": "/community/tutorials/reading-writing-files-python",
+    "description": "Learn how to open, read and write data into flat files, such as JSON and text files, as well as binary files in Python with the io and os modules.",
+    "title": [
+      "importing & cleaning data"
+    ],
+    "author_name": "Hafsa Jabeen",
+    "topic": "Reading and Writing Files in Python Tutorial",
+    "author_profile": "/profile/hafsajbn"
+  },
+  {
+    "topic_url": "/community/tutorials/logistic-regression-R",
+    "description": "Discover all about logistic regression: how it differs from linear regression, how to fit and evaluate these models it in R with the glm() function and more!",
+    "title": [
+      "must read",
+      "r programming"
+    ],
+    "author_name": "James Le",
+    "topic": "Logistic Regression in R Tutorial",
+    "author_profile": "/profile/khanhle1013"
+  },
+  {
+    "topic_url": "/community/tutorials/tidyverse-tutorial-r",
+    "description": "Start analyzing titanic data with R and the tidyverse: learn how to filter, arrange, summarise, mutate and visualize your data with dplyr and ggplot2!",
+    "title": [
+      "must read",
+      "tidyverse"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Getting Started with the Tidyverse: Tutorial",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/pickle-python-tutorial",
+    "description": "Discover the Python pickle module: learn about serialization, when (not) to use it, how to compress pickled objects, multiprocessing, and much more!",
+    "title": [
+      "importing & cleaning data"
+    ],
+    "author_name": "Th\u00e9o Vanderheyden",
+    "topic": "Pickle in Python: Object Serialization",
+    "author_profile": "/profile/theov"
+  },
+  {
+    "topic_url": "/community/tutorials/autoencoder-keras-tutorial",
+    "description": "In this tutorial, you'll learn more about autoencoders and how to build convolutional and denoising autoencoders with the notMNIST dataset in Keras.",
+    "title": [
+      "keras"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Implementing Autoencoders in Keras: Tutorial",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/sentiment-analysis-R",
+    "description": "Learn how to perform tidy sentiment analysis in R on Prince's songs, sentiment over time, song level sentiment, the impact of bigrams, and much more!",
+    "title": [
+      "must read",
+      "fun"
+    ],
+    "author_name": "Debbie Liske",
+    "topic": "Tidy Sentiment Analysis in R",
+    "author_profile": "/profile/debbieliskefa5156febfc047aeb79dee6c802d3d04"
+  },
+  {
+    "topic_url": "/community/tutorials/python-oop-tutorial",
+    "description": "Tackle the basics of Object-Oriented Programming (OOP) in Python: explore classes, objects, instance methods, attributes and much more!",
+    "title": [
+      "must read",
+      "tutorial"
+    ],
+    "author_name": "Th\u00e9o Vanderheyden",
+    "topic": "Python Object-Oriented Programming (OOP): Tutorial",
+    "author_profile": "/profile/theov"
+  },
+  {
+    "topic_url": "/community/tutorials/k-means-clustering-r",
+    "description": "Learn all about clustering and, more specifically, k-means in this R Tutorial, where you'll focus on a case study with Uber data.",
+    "title": [
+      "must read",
+      "machine learning"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "K-Means Clustering in R Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/cnn-tensorflow-python",
+    "description": "In this tutorial, you'll learn how to construct and implement Convolutional Neural Networks (CNNs) in Python with the TensorFlow framework.",
+    "title": [
+      "deep learning"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Convolutional Neural Networks with TensorFlow",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/dask-ec2-terraform",
+    "description": "Learn how you can take local code that does grid search with the Scikit-Learn package to a cluster of AWS (EC2) nodes with Terraform.",
+    "title": [
+      "aws"
+    ],
+    "author_name": "Dror Atariah",
+    "topic": "From Local Machine to Dask Cluster with Terraform",
+    "author_profile": "/profile/drorata"
+  },
+  {
+    "topic_url": "/community/tutorials/feature-selection-R-boruta",
+    "description": "Tackle feature selection in R: explore the Boruta algorithm, a wrapper built around the Random Forest classification algorithm, and its implementation!",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Manish Pathak",
+    "topic": "Feature Selection in R with the Boruta R Package",
+    "author_profile": "/profile/pathakmanish2605"
+  },
+  {
+    "topic_url": "/community/tutorials/python-xml-elementtree",
+    "description": "Learn how you can parse, explore, modify and populate XML files with the Python ElementTree package, for loops and XPath expressions.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Steph Howson",
+    "topic": "Python XML with ElementTree: Beginner's Guide",
+    "author_profile": "/profile/stephaniehowson"
+  },
+  {
+    "topic_url": "/community/tutorials/data-science-techniques-dataframed",
+    "description": "What are the most favorite techniques of the professional data scientists interviewed in DataFramed, a DataCamp podcast? Explore all 6 of them in this tutorial!",
+    "title": [
+      "facebook live"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Experts' Favorite Data Science Techniques",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/facebook-chatbot-python-deploy",
+    "description": "A step-by-step guide to easily deploying a Facebook Messenger chatbot with Python, using Flask, requests and ngrok. ",
+    "title": [
+      "must read",
+      "chatbots"
+    ],
+    "author_name": "Alan Nichol",
+    "topic": "Deploy Your Facebook Messenger Bot with Python",
+    "author_profile": "/profile/alanlastmile"
+  },
+  {
+    "topic_url": "/community/tutorials/r-web-scraping-rvest",
+    "description": "Explore web scraping in R with rvest with a real-life project: extract, preprocess and analyze Trustpilot reviews with tidyverse and tidyquant, and much more!",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Arvid Kingl",
+    "topic": "Web Scraping in R: rvest Tutorial",
+    "author_profile": "/profile/akingl2016"
+  },
+  {
+    "topic_url": "/community/tutorials/pandas-tutorial-dataframe-python",
+    "description": "Explore data analysis with Python. Pandas DataFrames make manipulating your data easy, from selecting or replacing columns and indices to reshaping your data.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Pandas Tutorial: DataFrames in Python",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/python-probability-tutorial",
+    "description": "Analyze poker hands with Python and easily implement statistical concepts such as combinations, permutations, (in)dependent events and expected value.",
+    "title": [
+      "statistical modeling"
+    ],
+    "author_name": "Daniel Poston",
+    "topic": "Analyzing Poker Hands with Python",
+    "author_profile": "/profile/danielc4f06ad606fd4d6eb9cb444ef4d09494"
+  },
+  {
+    "topic_url": "/community/tutorials/ensemble-r-machine-learning",
+    "description": "Boost your machine learning results and discover ensembles in R with the SuperLearner package: learn about the Random Forest algorithm, bagging, and much more!",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Daniel Gremmell",
+    "topic": "Ensemble Learning in R with SuperLearner",
+    "author_profile": "/profile/dgremmell"
+  },
+  {
+    "topic_url": "/community/tutorials/generate-data-trumania",
+    "description": "Why do data scientists and data engineers work with synthetic data? How do they obtain it? Discover Trumania, a scenario-based random dataset generator library.",
+    "title": [
+      "must read",
+      "importing & cleaning data"
+    ],
+    "author_name": "Svend Vanderveken",
+    "topic": "Generating Realistic Random Datasets with Trumania",
+    "author_profile": "/profile/svendvanderveken"
+  },
+  {
+    "topic_url": "/community/tutorials/active-learning",
+    "description": "Discover active learning, a case of semi-supervised machine learning: from its definition and its benefits, to applications and modern research into it.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Stefan Hosein",
+    "topic": "Active Learning: Curious AI Algorithms",
+    "author_profile": "/profile/stefanmhosein"
+  },
+  {
+    "topic_url": "/community/tutorials/blockchain-r",
+    "description": "Implement a small blockchain in R  and learn more about what a blockchain looks like and some of the core concepts behind it!",
+    "title": [
+      "blockchain"
+    ],
+    "author_name": "Johannes Mueller",
+    "topic": "Understanding Blockchains by Coding One in R",
+    "author_profile": "/profile/johannesm"
+  },
+  {
+    "topic_url": "/community/tutorials/python-tuples-tutorial",
+    "description": "Learn about Python tuples: what they are, how to create them, when to use them, what operations you perform on them and various functions you should know.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python Tuples Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/google-cloud-data-science",
+    "description": "Learn to set up a data science environment on Google Cloud: create an instance on Google Compute Engine, install Anaconda and run Jupyter notebooks!",
+    "title": [
+      "data analysis"
+    ],
+    "author_name": "Alexis Perrier",
+    "topic": "Google Cloud for Data Science: Beginner's Guide",
+    "author_profile": "/profile/alexisperrier"
+  },
+  {
+    "topic_url": "/community/tutorials/matrix-factorization-names",
+    "description": "Applying matrix factorization on user clicks on hundreds of names on the recommender system NamesILike.com reveal an unseen structure in our first names.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Kasper Van Lombeek",
+    "topic": "Finding Similar Names with Matrix Factorization",
+    "author_profile": "/profile/kaspervanlombeek"
+  },
+  {
+    "topic_url": "/community/tutorials/R-nlp-machine-learning",
+    "description": "Dive into the lyrics of Prince's music with R: use text mining and Exploratory Data Analysis (EDA) to shed insight on The Artist's career. ",
+    "title": [
+      "must read",
+      "fun"
+    ],
+    "author_name": "Debbie Liske",
+    "topic": "Lyric Analysis with NLP & Machine Learning with R",
+    "author_profile": "/profile/debbieliskefa5156febfc047aeb79dee6c802d3d04"
+  },
+  {
+    "topic_url": "/community/tutorials/sem-data-science",
+    "description": "In this tutorial, data science meets Search Engine Marketing: learn to create Google AdWords campaigns by generating keywords and ad templates with Python!",
+    "title": [
+      "data manipulation"
+    ],
+    "author_name": "Elias Dabbas",
+    "topic": "Data Science for Search Engine Marketing (SEM)",
+    "author_profile": "/profile/elias-1bcfbc85-6b61-466c-a28f-3084efe432d1"
+  },
+  {
+    "topic_url": "/community/tutorials/pep8-tutorial-python-code",
+    "description": "With this beginner tutorial, you'll start to explore PEP-8, Python's style guide, so that you can start formatting your code correctly to maximize its readability!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Chitrank Dixit",
+    "topic": "PEP-8 Tutorial: Code Standards in Python",
+    "author_profile": "/profile/chitrankdixit"
+  },
+  {
+    "topic_url": "/community/tutorials/python-iterator-tutorial",
+    "description": "Learn all about the Python iterator, how they differ from iterables and generators, and how to build one yourself with __iter__, __next__ and itertools.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python Iterator Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/transfer-learning",
+    "description": "In this tutorial, you\u2019ll see what transfer learning is, what some of its applications are and why it is critical skill as a data scientist.",
+    "title": [
+      "must read",
+      "machine learning"
+    ],
+    "author_name": "Lars Hulstaert",
+    "topic": "Transfer Learning: Leverage Insights from Big Data",
+    "author_profile": "/profile/larshulstaert"
+  },
+  {
+    "topic_url": "/community/tutorials/python-string-tutorial",
+    "description": "In this tutorial, you'll learn all about Python Strings: slicing and striding, manipulating and formatting them with the Formatter class, f-strings, templates and more!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python String Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/time-series-analysis-tutorial",
+    "description": "Get Google Trends data of keywords such as 'diet' and 'gym' and see how they vary over time while learning about trends and seasonality in time series data.",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Time Series Analysis Tutorial with Python",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/recommender-systems-python",
+    "description": "Learn how to build your own recommendation engine with the help of Python, from basic models to content-based and collaborative filtering recommender systems.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Rounak Banik",
+    "topic": "Recommender Systems in Python: Beginner Tutorial",
+    "author_profile": "/profile/rounakbanik"
+  },
+  {
+    "topic_url": "/community/tutorials/feature-engineering-kaggle",
+    "description": "Learn how feature engineering can help you to up your game when building machine learning models in Kaggle: create new columns, transform variables and more!",
+    "title": [
+      "kaggle"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Machine Learning with Kaggle: Feature Engineering",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/shell-commands-data-scientist",
+    "description": "Which shell commands do data scientists use nearly every day? Discover and learn how to use them in this tutorial!",
+    "title": [
+      "must read",
+      "shell"
+    ],
+    "author_name": "Alexis Perrier",
+    "topic": "8 Useful Shell Commands For Data Science",
+    "author_profile": "/profile/alexisperrier"
+  },
+  {
+    "topic_url": "/community/tutorials/kaggle-tutorial-machine-learning",
+    "description": "Learn how to build your first machine learning model, a decision tree classifier, with the Python scikit-learn package, submit it to Kaggle and see how it performs! ",
+    "title": [
+      "must read",
+      "machine learning"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Kaggle Tutorial: Your First Machine Learning Model",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/python-regular-expression-tutorial",
+    "description": "Discover Python regular expressions: find basic and complex patterns, repetitions, or to do (non-)greedy matching, work with the re library and much more!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python Regular Expression Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/kaggle-machine-learning-eda",
+    "description": "In this Kaggle tutorial, you'll learn how to approach and build supervised learning models with the help of exploratory data analysis (EDA) on the Titanic data.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Kaggle Tutorial: EDA & Machine Learning",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/fftrees-tutorial",
+    "description": "An introductory tutorial to fast-and-frugal decision trees in R with the FFTrees package. ",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Nathaniel D. Phillips",
+    "topic": "Fast-and-Frugal Decision Trees in R with FFTrees",
+    "author_profile": "/profile/nathanieldphillips"
+  },
+  {
+    "topic_url": "/community/tutorials/python-data-type-conversion",
+    "description": "In this Python tutorial, you'll tackle implicit and explicit data type conversion of primitive and non-primitive data structures with the help of code examples!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python Data Type Conversion Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/five-tips-r-code-improve",
+    "description": "Five useful tips that you can use to effectively improve your R code, from using seq() to create sequences to ditching which() and much more!",
+    "title": [
+      "must read",
+      "r programming"
+    ],
+    "author_name": "Simon Jackson",
+    "topic": "Five Tips to Improve Your R Code",
+    "author_profile": "/profile/drsimonjackson"
+  },
+  {
+    "topic_url": "/community/tutorials/python-dictionary-comprehension",
+    "description": "Learn all about Python dictionary comprehension: how you can use it to create dictionaries, to replace (nested) for loops or lambda functions with map(), filter() and reduce(), ...!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python Dictionary Comprehension Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/data-structures-python",
+    "description": "Get introduced to Python data structures: learn more about data types and primitive as well as non-primitive data structures, such as strings, lists, stacks, etc.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Sejal Jaiswal",
+    "topic": "Python Data Structures Tutorial",
+    "author_profile": "/profile/cjsejal"
+  },
+  {
+    "topic_url": "/community/tutorials/aws-ec2-beginner-tutorial",
+    "description": "Discover why you should use Amazon Web Services Elastic Compute Cloud (EC2) and how you can set up a basic data science environment on a Windows instance.",
+    "title": [
+      "learning data science"
+    ],
+    "author_name": "Michael Galarnyk",
+    "topic": "AWS EC2 Tutorial For Beginners",
+    "author_profile": "/profile/mgalarny-9d736b5c-bc15-4424-b6e2-2171c0af2e4a"
+  },
+  {
+    "topic_url": "/community/tutorials/convolutional-neural-networks-python",
+    "description": "In this tutorial, you\u2019ll learn how to implement Convolutional Neural Networks (CNNs) in Python with Keras, and how to overcome overfitting with dropout.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Aditya Sharma",
+    "topic": "Convolutional Neural Networks in Python with Keras",
+    "author_profile": "/profile/adityasharma101993"
+  },
+  {
+    "topic_url": "/community/tutorials/r-formula-tutorial",
+    "description": "Discover the R formula and how you can use it in modeling- and graphical functions of well-known packages such as stats, and ggplot2. ",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Formulas in R Tutorial",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/pipe-r-tutorial",
+    "description": "Learn more about the famous pipe operator %>% and other pipes in R, why and how you should use them and what alternatives you can consider!",
+    "title": [
+      "must read",
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Pipes in R Tutorial For Beginners",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/python-list-comprehension",
+    "description": "Learn how to effectively use list comprehension in Python to create lists, to replace (nested) for loops and the map(), filter() and reduce() functions, ...!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python List Comprehension Tutorial",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/lda2vec-topic-model",
+    "description": "Learn more about LDA2vec, a model that learns dense word vectors jointly with Dirichlet-distributed latent document-level mixtures of topic vectors.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Lars Hulstaert",
+    "topic": "LDA2vec: Word Embeddings in Topic Models",
+    "author_profile": "/profile/larshulstaert"
+  },
+  {
+    "topic_url": "/community/tutorials/loops-python-tutorial",
+    "description": "A comprehensive introductory tutorial to Python loops. Learn and practice while and for loops, nested loops, the break and continue keywords, the range function and more!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Satyabrata Pal",
+    "topic": "Python Loops Tutorial",
+    "author_profile": "/profile/satyabratapal1"
+  },
+  {
+    "topic_url": "/community/tutorials/web-scraping-python-nlp",
+    "description": "Learn to scrape novels from the web and plot word frequency distributions; You will gain experience with Python packages requests, BeautifulSoup and nltk.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Web Scraping & NLP in Python",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/pandas-multi-index",
+    "description": "In this tutorial, you\u2019ll learn about multi-indices for pandas DataFrames and how they arise naturally from groupby operations on real-world data sets.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Hierarchical indices, groupby and pandas",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/pandas-split-apply-combine-groupby",
+    "description": "In this tutorial, you'll learn how to use the pandas groupby operation, which draws from the well-known split-apply-combine strategy, on Netflix movie data.",
+    "title": [
+      "must read",
+      "data manipulation"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Groupby, split-apply-combine and pandas",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/statistics-python-tutorial-probability-1",
+    "description": "Tackle probability and statistics in Python: learn more about combinations and permutations, dependent and independent events, and expected value.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Daniel Poston",
+    "topic": "Poker Probability and Statistics with Python",
+    "author_profile": "/profile/danielc4f06ad606fd4d6eb9cb444ef4d09494"
+  },
+  {
+    "topic_url": "/community/tutorials/networkx-python-graph-tutorial",
+    "description": "This NetworkX tutorial will show you how to do graph optimization in Python by solving the Chinese Postman Problem in Python. ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Andrew Brooks",
+    "topic": "Graph Optimization with NetworkX in Python",
+    "author_profile": "/profile/andrewbrooksct"
+  },
+  {
+    "topic_url": "/community/tutorials/scikit-learn-fake-news",
+    "description": "This scikit-learn tutorial will walk you through building a fake news classifier with the help of Bayesian models. ",
+    "title": [
+      "must read",
+      "machine learning"
+    ],
+    "author_name": "Katharine Jarmul",
+    "topic": "Detecting Fake News with Scikit-Learn",
+    "author_profile": "/profile/katharinecc6b90c27e1b40129c2745c9215cc689"
+  },
+  {
+    "topic_url": "/community/tutorials/make-histogram-ggvis-r",
+    "description": "Learn how to make a histogram with ggvis. Go from the very basics to creating interactive graphs with shiny to display distributions.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "How to Make a Histogram with ggvis in R",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/seaborn-python-tutorial",
+    "description": "This Seaborn tutorial introduces you to the basics of statistical data visualization ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python Seaborn Tutorial For Beginners",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/functions-python-tutorial",
+    "description": "A tutorial on functions in Python that covers how to write functions, how to call them, and more!",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python Functions Tutorial",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/apache-spark-tutorial-machine-learning",
+    "description": "Apache Spark tutorial introduces you to big data processing, analysis and ML with PySpark.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Apache Spark Tutorial: ML with PySpark",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/sql-tutorial-query",
+    "description": "Learn about anti-patterns, execution plans, time complexity, query tuning, and optimization in SQL.",
+    "title": [
+      "must read",
+      "data manipulation"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "SQL Tutorial: How To Write Better Queries",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/tensorflow-tutorial",
+    "description": "Learn how to build a neural network and how to train, evaluate and optimize it with TensorFlow",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "TensorFlow Tutorial For Beginners",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/keras-r-deep-learning",
+    "description": "In this tutorial to deep learning in R with RStudio's keras package, you'll learn how to build a Multi-Layer Perceptron (MLP).",
+    "title": [
+      "must read",
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "keras: Deep Learning in R",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/data-science-python-ide",
+    "description": "The best Python IDEs for data science that make data analysis and machine learning easier!",
+    "title": [
+      "data analysis"
+    ],
+    "author_name": "Paulo Henrique Vasconcellos",
+    "topic": "Top 5 Python IDEs For Data Science",
+    "author_profile": "/profile/paulovasconcellos"
+  },
+  {
+    "topic_url": "/community/tutorials/scikit-learn-tutorial-baseball-2",
+    "description": "A Scikit-Learn tutorial to using logistic regression and random forest models to predict which baseball players will be voted into the Hall of Fame",
+    "title": [
+      "python"
+    ],
+    "author_name": "Daniel Poston",
+    "topic": "Scikit-Learn Tutorial: Baseball Analytics  Pt 2",
+    "author_profile": "/profile/danielc4f06ad606fd4d6eb9cb444ef4d09494"
+  },
+  {
+    "topic_url": "/community/tutorials/data-table-cheat-sheet",
+    "description": "The data.table cheat sheet helps you master the syntax of this R package, and helps you to do data manipulations.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "The data.table R Package Cheat Sheet",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/finance-python-trading",
+    "description": "This Python for Finance tutorial introduces you to algorithmic trading, and much more.",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python For Finance: Algorithmic Trading",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/pandas-idiomatic",
+    "description": "This tutorial covers 5 ways in which you can easily write pandorable or more idiomatic Pandas code. ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Yassine Alouini",
+    "topic": "5 Tips To Write Idiomatic Pandas Code",
+    "author_profile": "/profile/yassinealouini"
+  },
+  {
+    "topic_url": "/community/tutorials/r-packages-guide",
+    "description": "An introduction to R packages based on 11 of the most frequently asked user questions. ",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Adolfo \u00c1lvarez",
+    "topic": "R Packages: A Beginner's Guide ",
+    "author_profile": "/profile/adalvarez"
+  },
+  {
+    "topic_url": "/community/tutorials/asyncio-introduction",
+    "description": "A short introduction to asynchronous I/O with the asyncio package. ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Mike Driscoll",
+    "topic": "Asyncio: An Introduction",
+    "author_profile": "/profile/mikef4b6b415ba9647ed8e692c3e27c771f3"
+  },
+  {
+    "topic_url": "/community/tutorials/scikit-learn-tutorial-baseball-1",
+    "description": "A scikit-learn tutorial to predicting MLB wins per season by modeling data to KMeans clustering model and linear regression models. ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Daniel Poston",
+    "topic": "Scikit-Learn Tutorial: Baseball Analytics Pt 1",
+    "author_profile": "/profile/danielc4f06ad606fd4d6eb9cb444ef4d09494"
+  },
+  {
+    "topic_url": "/community/tutorials/deep-learning-python",
+    "description": "This Keras tutorial introduces you to deep learning in Python: learn to preprocess your data, model, evaluate and optimize neural networks. ",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Keras Tutorial: Deep Learning in Python",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/matplotlib-3d-volumetric-data",
+    "description": "In this Python tutorial, you'll make use of Matplotlib's event handler API to display the slices of an MRI data set.  ",
+    "title": [
+      "data visualization"
+    ],
+    "author_name": "Juan  Nunez-Iglesias",
+    "topic": "Viewing 3D Volumetric Data With Matplotlib",
+    "author_profile": "/profile/jnisoma"
+  },
+  {
+    "topic_url": "/community/tutorials/top-5-r-graphics",
+    "description": "A list of the 5 most popular graphs among R users and enthusiasts. ",
+    "title": [
+      "data visualization"
+    ],
+    "author_name": "Yan Holtz",
+    "topic": "The R Graph Gallery's Top 5 Most Visited Graph Themes",
+    "author_profile": "/profile/yanholtz"
+  },
+  {
+    "topic_url": "/community/tutorials/python-data-profiling",
+    "description": "In this tutorial, you'll learn about exploratory data analysis (EDA) in Python, and more specifically, data profiling with pandas.",
+    "title": [
+      "data manipulation"
+    ],
+    "author_name": "Jean-Nicholas Hould",
+    "topic": "Exploratory Data Analysis of Craft Beers: Data Profiling",
+    "author_profile": "/profile/nickhould"
+  },
+  {
+    "topic_url": "/community/tutorials/apache-spark-python",
+    "description": "A beginner's guide to Spark in Python based on 9 popular questions, such as how to install PySpark in Jupyter Notebook, best practices,... ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Apache Spark in Python: Beginner's Guide",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/deep-learning-jupyter-aws",
+    "description": "This step-by-step tutorial will show you how to set up and use Jupyter Notebook on Amazon Web Services (AWS) EC2 GPU for deep learning. ",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Dan Becker",
+    "topic": "Deep Learning With Jupyter Notebooks In The Cloud",
+    "author_profile": "/profile/dansbecker"
+  },
+  {
+    "topic_url": "/community/tutorials/exploratory-data-analysis-python",
+    "description": "Learn the basics of Exploratory Data Analysis (EDA) in Python with Pandas, Matplotlib and NumPy, such as sampling, feature engineering, correlation, etc.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python Exploratory Data Analysis Tutorial",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/matplotlib-tutorial-python",
+    "description": "This Matplotlib tutorial takes you through the basics Python data visualization: the anatomy of a plot, pyplot and pylab, and much more",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Matplotlib Tutorial: Python Plotting",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/python-dictionary-tutorial",
+    "description": "In this Python tutorial, you'll learn how to create a dictionary, load data in it, filter, get and sort the values, and perform other dictionary operations. ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Thomas Wielfaert",
+    "topic": "Python Dictionary Tutorial",
+    "author_profile": "/profile/thomaswielfaert"
+  },
+  {
+    "topic_url": "/community/tutorials/r-trading-tutorial",
+    "description": "In this R tutorial, you'll do web scraping, hit a finance API and use an htmlwidget to make an interactive time series chart to perform a simple algorithmic trading strategy",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Ted Kwartler",
+    "topic": "Algorithmic Trading in R Tutorial",
+    "author_profile": "/profile/tedkwartler"
+  },
+  {
+    "topic_url": "/community/tutorials/python-scipy-tutorial",
+    "description": "A SciPy tutorial in which you'll learn the basics of linear algebra that you need for machine learning in Python, with a focus how to with NumPy.  ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Scipy Tutorial: Vectors and Arrays (Linear Algebra)",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/python-excel-tutorial",
+    "description": "Learn how to read and import Excel files in Python, how to write data to these spreadsheets and which are the best packages to do this.  ",
+    "title": [
+      "must read",
+      "importing & cleaning data"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python Excel Tutorial: The Definitive Guide ",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/scikit-learn-python",
+    "description": "\u7c21\u55ae\u6613\u61c2\u7684 scikit-learn \u6559\u5b78\uff0c\u9069\u5408\u60f3\u8981\u4f7f\u7528 Python \u5be6\u4f5c\u6a5f\u5668\u5b78\u7fd2\u7684\u521d\u5b78\u8005\u95b1\u8b80\u3002",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Yao-Jen Kuo",
+    "topic": "Scikit-Learn \u6559\u5b78\uff1aPython \u8207\u6a5f\u5668\u5b78\u7fd2",
+    "author_profile": "/profile/tony-kuo"
+  },
+  {
+    "topic_url": "/community/tutorials/exploring-h1b-data-with-r-3",
+    "description": "Learn how to geocode locations and map them with R",
+    "title": [
+      "data analysis"
+    ],
+    "author_name": "Ted Kwartler",
+    "topic": "Exploring H-1B Data with R: Part 3",
+    "author_profile": "/profile/tedkwartler"
+  },
+  {
+    "topic_url": "/community/tutorials/exploring-h1b-data-with-r-2",
+    "description": "Learn even more about exploratory data analysis with R in the second part of the \"Exploring H-1B Data\" tutorial series",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Ted Kwartler",
+    "topic": "Exploring H-1B Data with R: Part 2",
+    "author_profile": "/profile/tedkwartler"
+  },
+  {
+    "topic_url": "/community/tutorials/python-numpy-tutorial",
+    "description": "A NumPy tutorial for beginners in which you'll learn how to create a NumPy array, use broadcasting, access values, manipulate arrays, and much more. ",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python Numpy Array Tutorial",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/exploring-h-1b-data-with-r",
+    "description": "Learn how to scrape data from the web, preprocess it and perform a basic exploratory data analysis with R ",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Ted Kwartler",
+    "topic": "Web Scraping and Parsing Data in R |  Exploring H-1b Data Pt. 1",
+    "author_profile": "/profile/tedkwartler"
+  },
+  {
+    "topic_url": "/community/tutorials/15-easy-solutions-data-frame-problems-r",
+    "description": "Discover how to create a data frame in R, change column and row names, access values, attach data frames, apply functions and much more.",
+    "title": [
+      "must read",
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "15 Easy Solutions To Your Data Frame Problems In R",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/machine-learning-python",
+    "description": "An easy-to-follow scikit-learn tutorial that will help you to get started with the Python machine learning.\r\n",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python Machine Learning: Scikit-Learn Tutorial",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/python-statistics-data-science",
+    "description": "A list of Python resources for the eight statistics topics that you need to know to excel in data science",
+    "title": [
+      "statistical modeling"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "40+ Python Statistics For Data Science Resources",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/tutorial-jupyter-notebook",
+    "description": "This tutorial explains how to install, run, and use Jupyter Notebooks for data science, including tips, best practices, and examples.",
+    "title": [
+      "must read",
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Jupyter Notebook Tutorial: The Definitive Guide",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/learn-data-science-infographic",
+    "description": "Start your data science journey now and follow these 8 steps to learn data science.",
+    "title": [
+      "learning data science"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Learn Data Science - Infographic",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/python-data-science-cheat-sheet-basics",
+    "description": "This handy one-page reference presents the Python basics that you need to do data science",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Python For Data Science - A Cheat Sheet For Beginners",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/tutorial-on-loops-in-r",
+    "description": "A tutorial on loops in R that looks at the constructs available in R for looping. Discover alternatives using R's vectorization feature.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Carlo Fanara",
+    "topic": "A Tutorial on Loops in R - Usage and Alternatives",
+    "author_profile": "/profile/carlofan"
+  },
+  {
+    "topic_url": "/community/tutorials/learn-data-science-resources-for-python-r",
+    "description": "Data science resources you haven't considered (yet) - The best projects, tutorials, talks, podcasts, webinars, books, and much more to learn data science.",
+    "title": [
+      "learning data science"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Learn Data Science - Resources for Python & R",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/18-most-common-python-list-questions-learn-python",
+    "description": "Discover how to create a list in Python, select list elements, the difference between append() and extend(), why to use NumPy and much more.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "18 Most Common Python List Questions",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/recreate-bloomberg-terminal-news-trends-r",
+    "description": "Recreate your own news trends feature in R, mining Pok\u00e9mon GO data from Google News Trends and Yahoo Finance.",
+    "title": [
+      "data analysis"
+    ],
+    "author_name": "Ted Kwartler",
+    "topic": "Text Mining in R: Are Pok\u00e9mon GO Mentions Really Driving Up Stock Prices?",
+    "author_profile": "/profile/tedkwartler"
+  },
+  {
+    "topic_url": "/community/tutorials/driving-r-adoption-in-your-company-with-meetups",
+    "description": "Build a better R culture at your company with an internal meetup!",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Jake Moody",
+    "topic": "Driving R Adoption in Your Company",
+    "author_profile": "/profile/jakem"
+  },
+  {
+    "topic_url": "/community/tutorials/preprocessing-in-data-science-part-3-scaling-synthesized-data",
+    "description": "You can preprocess the heck out of your data but the proof is in the pudding: how well does your model then perform?",
+    "title": [
+      "python"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Preprocessing in Data Science (Part 3): Scaling Synthesized Data",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/preprocessing-in-data-science-part-2-centering-scaling-and-logistic-regression",
+    "description": "Discover whether centering and scaling help your model in a logistic regression setting.",
+    "title": [
+      "machine learning"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Preprocessing in Data Science (Part 2): Centering, Scaling and Logistic Regression",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn",
+    "description": "This article will explain the importance of preprocessing in the machine learning pipeline by examining how centering and scaling can improve model performance.",
+    "title": [
+      "python"
+    ],
+    "author_name": "Hugo Bowne-Anderson",
+    "topic": "Preprocessing in Data Science (Part 1): Centering, Scaling, and KNN",
+    "author_profile": "/profile/hugobowneanderson"
+  },
+  {
+    "topic_url": "/community/tutorials/r-tutorial-apply-family",
+    "description": "In this tutorial, you'll learn about the use of the apply functions in R, its variants, and a few of its relatives applied to different data structures.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Carlo Fanara",
+    "topic": "Tutorial on the R Apply Family",
+    "author_profile": "/profile/carlofan"
+  },
+  {
+    "topic_url": "/community/tutorials/data-science-industry-infographic",
+    "description": "This infograph compares the roles of data scientists, data analysts, data architects, data engineers and more in the data science industry.",
+    "title": [
+      "must read",
+      "learning data science"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "The Data Science Industry: Who Does What (Infographic)",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/importing-data-r-part-two",
+    "description": "A tutorial on importing data into R. The focus is on reading data from sources like statistical software, databases, webscraping, and more.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Importing Data Into R - Part Two",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/15-questions-about-r-plots",
+    "description": "There are different types of R plots, ranging from the basic graph types to complex types of graphs. Here we discover how to create these.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "15 Questions All R Users Have About Plots",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/r-data-import-tutorial",
+    "description": "Comprehensive and easy R Data Import tutorial covering everything from importing simple text files to the more advanced SPSS and SAS files.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "This R Data Import Tutorial Is Everything You Need",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/functions-in-r-a-tutorial",
+    "description": "The tutorial highlights what R functions are, user defined functions in R, scoping in R, making your own functions in R, and much more.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Carlo Fanara",
+    "topic": "A Tutorial on Using Functions in R!",
+    "author_profile": "/profile/carlofan"
+  },
+  {
+    "topic_url": "/community/tutorials/r-or-python-for-data-analysis",
+    "description": "Wondering whether you should use R or Python for your next data analysis post? Check our infographic \"Data Science Wars: R vs Python\".",
+    "title": [
+      "must read",
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Choosing R or Python for Data Analysis? An Infographic",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/r-tutorial-read-excel-into-r",
+    "description": "R Tutorial on Reading and Importing Excel Files into R. Understand how to read and import spreadsheet files using basic R and packages.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Reading and Importing Excel Files into R",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/machine-learning-in-r",
+    "description": "This small tutorial is meant to introduce you to the basics of machine learning in R: it will show you how to use R to work with KNN.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Machine Learning in R for beginners",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/scraping-javascript-generated-data-with-r",
+    "description": "Short tutorial on scraping Javascript generated data with R using PhantomJS.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Filip Schouwenaars",
+    "topic": "Web Scraping with R and PhantomJS",
+    "author_profile": "/profile/filip"
+  },
+  {
+    "topic_url": "/community/tutorials/make-histogram-ggplot2",
+    "description": "Learn how to make a histogram with ggplot2 in R. Make histograms in R based on the grammar of graphics.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "How to Make a Histogram with ggplot2",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/make-histogram-basic-r",
+    "description": "Tutorial for new R users whom need an accessible and easy-to-understand resource on how to create their own histogram with basic R.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "How to Make a Histogram with Basic R",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/how-to-speak-data-science",
+    "description": "Data Science has its own language. This is a great list of often-heard data science terminology and quotes by Datacamp.",
+    "title": [
+      "general"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "How to Speak Data Science",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/data-table-r-tutorial",
+    "description": "The free data.table R tutorial explains the basics and syntax of the data.table package for R. Master the data.table syntax now.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "A data.table R Tutorial:  Intro to DT[i, j, by]",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/how-to-become-a-data-scientist",
+    "description": "This DataCamp infographic outlines how you can become a data scientist in 8 steps. This guide is for everyone interested in data science.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Become A Data Scientist in 8 Steps: Infographic",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/package-rankings-task-view-rankings-and-much-more-the-rdocumentation-poster",
+    "description": "Rdocumentation.org is the only R documentation and R manuals aggregator that lets you search everything from CRAN, Bioconductor and GitHub.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "The RDocumentation Poster",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/decimal-comma-or-decimal-point-a-googlevis-visualization",
+    "description": "Decimal comma or decimal point? A handy tool to indicate the decimal separator used in each country so you never make a mistake in your sheet",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Decimal Comma or Point? A googleVis visualization",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/statistical-language-wars-the-infograph",
+    "description": "The infograph 'Statistical Language Wars' compares statistical programming language like SAS, R and SPSS to see how they stack up.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "What Is the Best Statistical Programming Language? Infograph",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/data-science-cartoons",
+    "description": "The 7 funniest data science cartoons on the web selected by you. A selection made by DataCamp to celebrate April's fools day.",
+    "title": [
+      "general"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Data Science Cartoons: a Top Seven List by DataCamp",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/the-stack-overflow-r-top-5",
+    "description": "Stack Overflow is a useful resource for technical questions. At DataCamp we wanted to share our favourite R posts on Stack Overflow.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "R posts on Stack Overflow | A Top 5 selection by DataCamp",
+    "author_profile": "/profile/karlijn"
+  },
+  {
+    "topic_url": "/community/tutorials/complete-list-of-coursera-courses-using-r-ranked-by-popularity",
+    "description": "A list of all Coursera courses on R. These courses use R as their first choice, or as one of the statistical software packages for homework.",
+    "title": [
+      "r programming"
+    ],
+    "author_name": "Karlijn Willems",
+    "topic": "Coursera Courses on R: Complete List Ranked by \u201cPopularity\u201d",
+    "author_profile": "/profile/karlijn"
+  }
 ]
